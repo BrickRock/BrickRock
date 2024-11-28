@@ -20,7 +20,8 @@
 ### WHAT DO I DO RIGHT NOW? 🧐
 
 * I am working on a personal project (in a private repo) focused on addressing insecurity issues in my state, Querétaro, Mexico. The project is called "CalleSegura", and its goal is to centralize crime data
-  Prototype (demo version): calle.live
+ [Prototype (demo): calle.live](https://calle.live)
+
 
 
   <img src="https://github.com/user-attachments/assets/a05f0d25-387d-4ebe-91ba-6d215b0ebef1" alt="screenshot of project" width="400px">
